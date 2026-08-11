@@ -20,7 +20,9 @@
  
 ## VULNERABILITY REPORTS
 <details> <summary><b>Apple</b></summary>
-[CVE-2026-64754]() : OOB Write in Apple ImageIO
+<br>
+ - [CVE-2026-64754]() : OOB Write in Apple ImageIO
+
 </details>
 
 <details> <summary><b>ETC</b></b></summary>
