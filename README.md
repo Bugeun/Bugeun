@@ -19,8 +19,13 @@
 
  
 ## VULNERABILITY REPORTS
-<p data-ke-size="size16"><b>[2013] OCS (Order Communication System) at a Major Hospital in Changwon</b></p>
+<details> <summary><b>Apple</b></summary>
+[CVE-2026-64754]()
+</details>
 
+<details> <summary><b>ETC</b></b></summary>
+[2013] OCS (Order Communication System) at a Major Hospital in Changwon
+</details>
 &nbsp;
 
 
