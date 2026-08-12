@@ -1,4 +1,4 @@
-## Bugeun
+## Bugeun Choi (@Bugeun)
 <p data-ke-size="size16">
 <b>[2020 - 2023] Seoul Arts University</b>
 </p>
