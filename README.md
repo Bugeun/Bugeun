@@ -23,6 +23,9 @@
 <details> <summary><b>Apple</b></summary>
 <br>
  - [CVE-2026-64754](https://support.apple.com/ko-kr/128066) : OOB Write in Apple ImageIO
+ - [PENDING]() : OOB Write in Apple App
+ - [PENDING]() : Kernal Panic in Apple
+ - [PENDING]() : 0-Click in Apple iMessage 
 
 </details>
 
