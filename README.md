@@ -31,7 +31,7 @@
 
 <details> <summary><b>IoT</b></summary>
 
- - [Pending]() : Stack Buffer Overflow to Code Execution in Hejhome GKW-IC054 IPCAM
+ - [PENDING]() : Stack Buffer Overflow to Code Execution in Hejhome GKW-IC054 IPCAM
 
 </details>
 
