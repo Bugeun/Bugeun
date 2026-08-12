@@ -35,7 +35,7 @@
 
 </details>
 
-<details> <summary><b>etc</b></b></summary>
+<details> <summary><b>ETC</b></b></summary>
 
  - [2013-Vendor-Report](https://www.boannews.com/media/view.asp?idx=36060&kind=1) : OCS (Order Communication System) at a Major Hospital in Changwon
 
