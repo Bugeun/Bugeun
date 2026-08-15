@@ -1,6 +1,6 @@
 ## Bugeun Choi (@Bugeun)
 
-<details><summary></summary>
+<details><summary>Bio</summary>
 <sub>
 최근 보안 업계에서는 보안 연구자에게 조직 인프라부터 작게는 시스템 아키텍처, 프레임워크, 산업 소프트웨어 단위까지 위협 모델을 정확하게 파악하고 구조화하며, 에이전트 엔지니어링을 활용하여 취약점 분석, 검증(Critic), 분류(Triage), 리포트 작성, 패치까지 자동화할 수 있는 능력이 요구된다고 생각합니다.
 이를 위해 버그 리포트 성과 자체보다는 제보 이후의 위협 모델(아키텍처 단위 등)에 대한 이해, 취약점 발생 원인(Root Cause) 분석, Reachability와 Affected 범위 및 Bug Impact에 대한 정확한 해석과 리포트 작성 능력, 그리고 에이전트 엔지니어링 활용 능력을 기르고자 합니다.
