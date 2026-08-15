@@ -25,7 +25,7 @@
  - [CVE-2026-64754](https://support.apple.com/ko-kr/128066) : Out of bounds Memory Write in Apple ImageIO
  - [PENDING]() : Out of bounds Memory Write in Apple App
  - [PENDING]() : Out of bounds Kernal Memory Write in Apple DiskImages
- - [PENDING]() : Zero-Click Out of bounds Memory Write in Apple iMessage/QuickLock 
+ - [PENDING]() : Zero-Click Out of bounds Memory Write in Apple iMessage/QuickLook 
 
 </details>
 
