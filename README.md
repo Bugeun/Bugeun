@@ -37,7 +37,7 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 ## Project Track Record
 - [2026] Embedded Devices Security Vulnerability Assessment Project for a Confidential Client
 - [2025–2026] Automotive ECU Reversing Project for a Confidential Client
-- [2025] Penetration Testing & Red Teaming Project for a Confidential Client
+- [2025] Enterprise IT Infrastructure Penetration Testing & Red Teaming Project for a Confidential Client
 
 
 &nbsp;
