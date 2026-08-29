@@ -26,11 +26,18 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 <p data-ke-size="size14">Vulnerability Analysis Track</p>
 &nbsp;
 
-## EXPERIENCE
+## WORK EXPERIENCE
 | 기간                     | 회사        | 직책               |
 | ------------------------ | ----------- | ------------------ |
 | [2025.12 - Current]      | Peto Works  | Security Researcher |
 | [2024.04 - 2025.12]      | SK Shieldus | Security Researcher  |
+
+&nbsp;
+
+## Project Track Record
+- [2026] Embedded Devices Security Vulnerability Assessment Project for a Confidential Client
+- [2025–2026] Automotive ECU Security Analysis Project for a Confidential Client
+- [2025] Penetration Testing & Red Teaming Project for a Confidential Client
 
 
 &nbsp;
