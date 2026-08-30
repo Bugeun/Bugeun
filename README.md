@@ -47,26 +47,32 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 ## VULNERABILITY REPORTS
 <details> <summary><b>Apple</b></summary>
 
-* ImageIO
+* <b>ImageIO Parser/Decoder Security Analysis Agent Project for iMessage BlastDoor</b>
   - [CVE-2026-64754](https://support.apple.com/ko-kr/128066) : Out of bounds Memory Write in Apple ImageIO
   - [PENDING]() : Out of bounds Memory Write in Apple App
-  - [PENDING]() : Zero-Click Out of bounds Memory Write in Apple iMessage/QuickLook (ImageIO Agent Project)
+  - [PENDING]() : Zero-Click Out of bounds Memory Write in Apple iMessage/QuickLook
 
 
-* Kernel
+* <b>Kernel</b>
   - [PENDING]() : Out of bounds Kernal Memory Write in Apple DiskImages
 
 </details>
 
 <details> <summary><b>IoT</b></summary>
 
- - [PENDING]() : Stack Buffer Overflow to Code Execution in Hejhome GKW-IC054 IPCAM
+
+* <b>IPCAM</b>
+
+  - [PENDING]() : Stack Buffer Overflow to Code Execution in Hejhome GKW-IC054 IPCAM
+
 
 </details>
 
 <details> <summary><b>ETC</b></b></summary>
 
- - [2013-Vendor-Report](https://www.boannews.com/media/view.asp?idx=36060&kind=1) : OCS (Order Communication System) at a Major Hospital in Changwon
+* <b>Web Secuirty</b>
+
+  - [2013-Vendor-Report](https://www.boannews.com/media/view.asp?idx=36060&kind=1) : OCS (Order Communication System) at a Major Hospital in Changwon
 
 </details>
 &nbsp;
