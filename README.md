@@ -35,9 +35,9 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 &nbsp;
 
 ## Project Track Record
-<p data-ke-size="size16">[2026] Embedded Devices Security Vulnerability Assessment Project for a Confidential Client</p>
-<p data-ke-size="size16">[2026] Automotive ECU Reversing Project for a Confidential Client</p>
-<p data-ke-size="size16">[2025] Enterprise IT Infrastructure Penetration Testing & Red Teaming Project for a Confidential Client</p>
+<p data-ke-size="size12">[2026] Embedded Devices Security Vulnerability Assessment Project for a Confidential Client</p>
+<p data-ke-size="size12">[2026] Automotive ECU Reversing Project for a Confidential Client</p>
+<p data-ke-size="size12">[2025] Enterprise IT Infrastructure Penetration Testing & Red Teaming Project for a Confidential Client</p>
 
 
 &nbsp;
@@ -78,10 +78,10 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 
 
 ## ACHIEVEMENTS
-<p data-ke-size="size16">
+<p data-ke-size="size12">
 [2026] Challenge author of KISIA CTF 2026 
 </p>
-<p data-ke-size="size16">
+<p data-ke-size="size12">
 [2026] Challenge author of CMX CTF 2026 
 </p>
 <p data-ke-size="size16">
