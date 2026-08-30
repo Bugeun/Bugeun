@@ -17,14 +17,13 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 <br>
 
 ## EDUCATION
-<p data-ke-size="size16">
-<b>[2020 - 2023] Seoul Arts University</b>
-</p>
-<p data-ke-size="size14">Major in Applied Music</p>     
-<p data-ke-size="size16">
-<b>[2013 - 2014] KITRI Best of the Best 2th</b>
-</p>
-<p data-ke-size="size14">Vulnerability Analysis Track</p>
+ <p data-ke-size="size16">
+ <b>[2020 - 2023] Seoul Arts University</b> <sub>Major in Applied Music</sub>
+ </p>
+
+ <p data-ke-size="size16">
+ <b>[2013 - 2014] KITRI Best of the Best 2th</b> <sub>Vulnerability Analysis Track</sub>
+ </p>
 &nbsp;
 
 ## WORK EXPERIENCE
@@ -36,9 +35,9 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 &nbsp;
 
 ## Project Track Record
-- <b>[2026] Embedded Devices Security Vulnerability Assessment Project for a Confidential Client</b>
-- <b>[2025–2026] Automotive ECU Reversing Project for a Confidential Client</b>
-- <b>[2025] Enterprise IT Infrastructure Penetration Testing & Red Teaming Project for a Confidential Client</b>
+<p data-ke-size="size16">[2026] Embedded Devices Security Vulnerability Assessment Project for a Confidential Client</p>
+<p data-ke-size="size16">[2026] Automotive ECU Reversing Project for a Confidential Client</p>
+<p data-ke-size="size16">[2025] Enterprise IT Infrastructure Penetration Testing & Red Teaming Project for a Confidential Client</p>
 
 
 &nbsp;
@@ -47,7 +46,7 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 ## VULNERABILITY REPORTS
 <details> <summary><b>Apple</b></summary>
 
-* <b>ImageIO Parser/Decoder Security Analysis Agent Project for iMessage BlastDoor</b>
+* <b>ImageIO Security Analysis Agent for iMessage BlastDoor</b>
   - [CVE-2026-64754](https://support.apple.com/ko-kr/128066) : Out of bounds Memory Write in Apple ImageIO
   - [PENDING]() : Out of bounds Memory Write in Apple App
   - [PENDING]() : Zero-Click Out of bounds Memory Write in Apple iMessage/QuickLook
@@ -80,40 +79,40 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 
 ## ACHIEVEMENTS
 <p data-ke-size="size16">
-<b>[2026] Challenge author of KISIA CTF 2026 </b>
+[2026] Challenge author of KISIA CTF 2026 
 </p>
 <p data-ke-size="size16">
-<b>[2026] Challenge author of CMX CTF 2026 </b> 
+[2026] Challenge author of CMX CTF 2026 
 </p>
 <p data-ke-size="size16">
-<b>[2026] Challenge author of COSS(Ajou University) CTF 2026 </b>
+[2026] Challenge author of COSS(Ajou University) CTF 2026
 </p>
 <p data-ke-size="size16">
-<b>[2025] 1th, LisaThon Mobility Competition 2025 Final </b> <small> (Team 온천부글부글대작전) </small>
+[2025] 1th, LisaThon Mobility Competition 2025 Final <small> (Team 온천부글부글대작전) </small>
 </p>
 <p data-ke-size="size16">
-<b>[2025] Pwn2Own Automotive Tokyo 2025</b> <small> Win a prize (Team SK Shieldus) </small>
+[2025] Pwn2Own Automotive Tokyo 2025 <small> Win a prize (Team SK Shieldus) </small>
 </p>
 <p data-ke-size="size16">
-<b>[2024] 8th, Block Harbor VicOne Automotive CTF - Season 2</b> <small> (Team a99) </small>
+[2024] 8th, Block Harbor VicOne Automotive CTF - Season 2 <small> (Team a99) </small>
 </p>
 <p data-ke-size="size16">
-<b>[2023] 11th, CakeCTF 2024</b> <small> (Team PhysicalLAB) </small>
+[2023] 11th, CakeCTF 2024 <small> (Team PhysicalLAB) </small>
 </p>
 <p data-ke-size="size16">
-<b>[2013] 5th, White Hat Contest</b>
+[2013] 5th, White Hat Contest
 </p>
 <p data-ke-size="size16">
-<b>[2013] 11th, Codegate 2013 Final</b> <small>(Team ForbiddenBITS)</small>
+[2013] 11th, Codegate 2013 Final <small>(Team ForbiddenBITS)</small>
 </p>
 <p data-ke-size="size16">
-<b>[2013] 8th, PHdays CTF Final</b> <small>(Team ForbiddenBITS)</small>
+[2013] 8th, PHdays CTF Final <small>(Team ForbiddenBITS)</small>
 </p>
 <p data-ke-size="size16">
-<b>[2012] 8th, Nuit du Hack CTF</b> <small>(Team ForbiddenBITS)</small>
+[2012] 8th, Nuit du Hack CTF <small>(Team ForbiddenBITS)</small>
 </p>
 <p data-ke-size="size16">
-<b>[2012] President's Award</b> <small>Korea Internet &amp; Security Agency Cyber Attack Scenario Contest</small>
+[2012] President's Award <small>Korea Internet &amp; Security Agency Cyber Attack Scenario Contest</small>
 </p>
 &nbsp;
 
