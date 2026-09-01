@@ -46,7 +46,7 @@ To develop these capabilities, rather than focusing solely on the outcomes of bu
 ## VULNERABILITY REPORTS
 <details> <summary><b>Apple</b></summary>
 
-* <b>ImageIO Security Analysis Agent for iMessage BlastDoor</b>
+* <b>ImageIO VR Agent for iMessage BlastDoor</b>
   - [CVE-2026-64754](https://support.apple.com/ko-kr/128066) : Out of bounds Memory Write in Apple ImageIO
   - [PENDING]() : Out of bounds Memory Write in Apple App
   - [PENDING]() : Zero-Click Out of bounds Memory Write in Apple iMessage/QuickLook
